@@ -1,5 +1,4 @@
-Kullanıcıdan alınan bir sayının basamaklarının küpleri toplamı 
-kendisine eşit olup olmadığını bulunuz.
+Aşağıdaki şekli çıktı olarak veren C programını yazınız.
 
 ```sh 
 xxxxx
@@ -8,4 +7,3 @@ xxxxx
    xx
     x
 ```
-
