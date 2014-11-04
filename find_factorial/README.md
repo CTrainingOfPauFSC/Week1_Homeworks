@@ -1,0 +1,1 @@
+Girilen sayinin faktoriyelini bulup ekrana yazdiran programi yaziniz.

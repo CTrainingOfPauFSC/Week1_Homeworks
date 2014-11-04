@@ -1,0 +1,1 @@
+Kenar uzunlugu kullanicidan alinan bir ikizkenar ucgenin, hipotenusunu, cevre uzunlugunu ve alanini ekrana yazdiran programi yaziniz.
